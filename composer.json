@@ -1,0 +1,9 @@
+{
+    "name": "pankov/class-relations",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
