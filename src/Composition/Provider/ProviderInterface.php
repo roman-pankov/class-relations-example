@@ -1,7 +1,5 @@
 <?php
 
-namespace Provider;
-
 namespace App\Composition\Provider;
 
 interface ProviderInterface
